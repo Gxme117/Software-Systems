@@ -1,5 +1,3 @@
-package Lab1;
-
 /**
  * Shape class. Designed to act as an abstract base class to other shapes.
  *

@@ -1,5 +1,3 @@
-package Lab1;
-
 public class Rectangle extends Shape {
 
     private int width;        // gets size of one side of rectangle
